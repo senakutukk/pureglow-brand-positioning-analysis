@@ -46,7 +46,7 @@ Tam analiz ve gerekçeler için → [Stratejik Rapor](report/pureglow_strateji_r
 
 ```
 ├── Data/     → Ham veri (CSV)
-├── sql/      → Analizde kullanılan tüm SQL sorguları (01–05, numaralandırılmış)
+├── sql/      → Analizde kullanılan tüm SQL sorguları 00-05, 00_veri_dogrulama.sql
 ├── images/   → Excel'de oluşturulan grafikler
 └── report/   → Tam stratejik rapor (SWOT + konumlandırma önerisi + aksiyon planı)
 ```
@@ -60,3 +60,4 @@ Tam analiz ve gerekçeler için → [Stratejik Rapor](report/pureglow_strateji_r
 ## 👤 İletişim
 
 Sorularınız veya geri bildirimleriniz için LinkedIn üzerinden ulaşabilirsiniz.
+[LinkedIn Profilim](https://www.linkedin.com/in/senanutkutuk/)
